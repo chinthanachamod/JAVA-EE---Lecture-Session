@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GDSE69_JavaEE.iml" filepath="$PROJECT_DIR$/GDSE69_JavaEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloServelet/HelloServelet.iml" filepath="$PROJECT_DIR$/HelloServelet/HelloServelet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyServelet/MyServelet.iml" filepath="$PROJECT_DIR$/MyServelet/MyServelet.iml" />
     </modules>
   </component>
 </project>
